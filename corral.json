@@ -1,0 +1,14 @@
+{
+  "packages": ["ponylang-devcontainer-template-test"],
+  "deps": [],
+  "info": {
+    "description": "Dummy test",
+    "homepage": "",
+    "license": "",
+    "documentation_url": "",
+    "version": "0.0.1",
+    "name": "ponylang-devcontainer-template-test"
+  },
+  "scripts": {
+  }
+}
